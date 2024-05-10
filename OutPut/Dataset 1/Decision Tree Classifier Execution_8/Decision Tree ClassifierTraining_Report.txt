@@ -1,0 +1,27 @@
+ ----------- Classification Report --------------
+
+Start Training ...  Time : 22 : 11 : 29 
+Finish Training ...  Time : 22 : 11 : 53 
+
+
+Training Accuracy: 98.0%
+Training loss: 2.0%
+Validation Accuracy: 98.3% (+/- 0.4%)
+Validation loss: 2.3%
+confusion_matrix : 
+[[1401   43    6]
+ [  32 1513    4]
+ [   3    0 1498]]
+Classification Report : 
+              precision    recall  f1-score   support
+
+         1.0       0.98      0.97      0.97      1450
+         2.0       0.97      0.98      0.97      1549
+         3.0       0.99      1.00      1.00      1501
+
+    accuracy                           0.98      4500
+   macro avg       0.98      0.98      0.98      4500
+weighted avg       0.98      0.98      0.98      4500
+
+
+-------------------------------------------------
