@@ -85,4 +85,3 @@ Ensure that all dataset folders are in the correct directory structure.
 
 ## 📜 License
 This project is for academic use. Contact the authors for permission to use datasets or methods commercially.
-هل ترغب أن أحفظ لك الملف بصيغة `.md` جاهز للتحميل؟
