@@ -57,7 +57,7 @@ Total: **74 texture features** per image after preprocessing.
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/yourusername/colorectal-lung-cancer-ml.git
+git clone https://github.com/HamzaAmir97/colorectal-lung-cancer-ml.git
 cd colorectal-lung-cancer-ml
 pip install -r requirements.txt
 ```
